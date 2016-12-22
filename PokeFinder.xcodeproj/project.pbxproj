@@ -25,6 +25,7 @@
 		84C065E21E05348F00C9B366 /* PokeFinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C065E11E05348F00C9B366 /* PokeFinderTests.swift */; };
 		84C065ED1E05348F00C9B366 /* PokeFinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C065EC1E05348F00C9B366 /* PokeFinderUITests.swift */; };
 		84E18D2D1E0AE15F005ECCAD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84E18D2C1E0AE15F005ECCAD /* GoogleService-Info.plist */; };
+		84FC50D61E0C266100D1FC1D /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 84FC50D51E0C266100D1FC1D /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		84C065EC1E05348F00C9B366 /* PokeFinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeFinderUITests.swift; sourceTree = "<group>"; };
 		84C065EE1E05348F00C9B366 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84E18D2C1E0AE15F005ECCAD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		84FC50D51E0C266100D1FC1D /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		C92C596B751ACCD8C49D6600 /* Pods-PokeFinderUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PokeFinderUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PokeFinderUITests/Pods-PokeFinderUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		E01BDA1CE7CC749FD6C98522 /* Pods-PokeFinder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PokeFinder.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PokeFinder/Pods-PokeFinder.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -211,6 +213,7 @@
 				84C065D81E05348F00C9B366 /* Info.plist */,
 				84E18D2C1E0AE15F005ECCAD /* GoogleService-Info.plist */,
 				84C065D31E05348F00C9B366 /* Assets.xcassets */,
+				84FC50D51E0C266100D1FC1D /* pokemon.csv */,
 				84C065D51E05348F00C9B366 /* LaunchScreen.storyboard */,
 				84C065CD1E05348F00C9B366 /* Main.storyboard */,
 				84C065D01E05348F00C9B366 /* PokeFinder.xcdatamodeld */,
@@ -382,6 +385,7 @@
 				84E18D2D1E0AE15F005ECCAD /* GoogleService-Info.plist in Resources */,
 				84C065D41E05348F00C9B366 /* Assets.xcassets in Resources */,
 				84C065CF1E05348F00C9B366 /* Main.storyboard in Resources */,
+				84FC50D61E0C266100D1FC1D /* pokemon.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
